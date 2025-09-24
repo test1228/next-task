@@ -1,4 +1,4 @@
-import { ImageResponse } from "@vercel/og";
+import { ImageResponse } from "next/server";
 import { notFound } from "next/navigation";
 import { Product } from "../../../types";
 
